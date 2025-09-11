@@ -1,4 +1,4 @@
-                                                                      SP-101 Attack Surface Management
+                                                SP-101 Attack Surface Management
 
 1. Introduction to Attack Surface Management (ASM)
 In today’s highly interconnected digital environment, organizations are constantly exposed to evolving cyber threats. A critical part of any cybersecurity strategy is understanding and managing the attack surface—the total set of entry points an attacker can exploit. Attack Surface Management (ASM) is a proactive approach to identify, monitor, and reduce these entry points, thereby minimizing the risk of cyberattacks.
