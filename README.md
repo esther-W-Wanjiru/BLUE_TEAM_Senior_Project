@@ -1,11 +1,11 @@
                                                 SP-101 Attack Surface Management
 
 1. Introduction to Attack Surface Management (ASM)
-In today’s highly interconnected digital environment, organizations are constantly exposed to evolving cyber threats. A critical part of any cybersecurity strategy is understanding and managing the attack surface—the total set of entry points an attacker can exploit. Attack Surface Management (ASM) is a proactive approach to identify, monitor, and reduce these entry points, thereby minimizing the risk of cyberattacks.
+In today’s highly interconnected digital environment, organizations are constantly exposed to evolving cyber threats. A critical part of any cybersecurity strategy is understanding and managing the attack surface—the total set of entry points an attacker can exploit. Attack Surface Management (ASM) is a proactive approach that identifies, monitors, and reduces these entry points, thereby minimizing the risk of cyberattacks.
 Attack Surface includes external-facing assets such as web servers, cloud services, APIs, mobile apps, and internal systems that may be inadvertently exposed. ASM helps organizations maintain continuous visibility and control over these assets, ensuring they remain secure.
 2. What is Attack Surface Management (ASM)?
 Definition
-Attack Surface Management (ASM) is an automated, continuous process of identifying, classifying, monitoring, and managing the external attack surface of an organization. Unlike traditional vulnerability management, which focuses on internal systems, ASM focuses on the ever-changing external environment.
+Attack Surface Management (ASM) is an automated, continuous process that identifies, classifies, monitors, and manages an organization's external attack surface. Unlike traditional vulnerability management, which focuses on internal systems, ASM focuses on the ever-changing external environment.
 Key Goals of ASM
 •	Discovery: Continuously identify internet-facing assets that may be exposed to attackers.
 •	Classification: Categorize assets and understand their risk profile.
@@ -13,7 +13,7 @@ Key Goals of ASM
 •	Remediation: Fix or mitigate risks to reduce the attack surface.
 Components of an Attack Surface
 1.	Known Assets: Web servers, APIs, cloud instances, and applications that are intentionally exposed.
-2.	Unknown or Shadow Assets: Misconfigured services, abandoned subdomains, and development environments unintentionally exposed.
+2.	Unknown or Shadow Assets: Misconfigured services, abandoned subdomains, and development environments are unintentionally exposed.
 3.	Third-Party Dependencies: External services and APIs that could introduce vulnerabilities.
 3. Why is ASM Important?
 The Problem it Solves
