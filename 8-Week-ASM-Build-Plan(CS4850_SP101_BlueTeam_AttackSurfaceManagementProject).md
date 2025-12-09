@@ -13,6 +13,8 @@
   * (Optional) Create dedicated `asm` user.
 
   * Git repo created for your project (scripts \+ docs).
+    
+  * PuTTY and GlobalVPN were used for this project. Any VPN of choice can be used.
 
 * **Outcome:** Base host ready for ASM development.
 
