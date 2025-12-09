@@ -2,7 +2,7 @@
 
 1. A virtual lab of target assets (Ubuntu web servers, internal services).
 
-2. An ASM host that runs discovery and vulnerability tools (Nmap, Amass, Masscan, OpenVAS/GVM).
+2. An ASM host that runs discovery and vulnerability tools (Nmap, Amass, OpenVAS/GVM).
 
 3. An indexing \+ dashboard backend (OpenSearch \+ Dashboards).
 
