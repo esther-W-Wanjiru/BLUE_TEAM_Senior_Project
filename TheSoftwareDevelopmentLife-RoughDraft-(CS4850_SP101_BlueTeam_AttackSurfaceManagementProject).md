@@ -1,6 +1,6 @@
 # **Attack Surface Management (ASM) — SDLC Document**
 
-## **1\) Planning & Scope**
+## **1\) Planning phase & Scope**
 
 **Goal.** Build a web-accessible, open-source ASM platform that continuously discovers assets, identifies vulnerabilities, and visualizes risk.  
  **In-scope.** Virtual lab assets (Ubuntu web servers, internal services), discovery and vuln scanning (Nmap, Amass, Masscan, OpenVAS/GVM), data indexing/visualization (OpenSearch \+ Dashboards), web UI (Flask), scheduling (cron/APScheduler), secure access (Nginx \+ TLS).  
